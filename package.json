@@ -1,0 +1,12 @@
+{
+	"name": "node-ndm-varname",
+	"version": "1.0.0",
+	"main": "index.js",
+	"keywords": [
+		"node-ndm-varname"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/neodev2/node-ndm-varname.git"
+	}
+}
